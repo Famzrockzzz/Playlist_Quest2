@@ -1,0 +1,241 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: arial, sans-serif;
+  background-color: #eeecec;
+}
+#equalizer {
+  color: white;
+  transform: translateX(-70px) translateY(115px);
+}
+#equalizer2 {
+  color: white;
+  transform: translateX(-80px) translateY(115px);
+}
+.column1 {
+  margin-left: 18%;
+  margin-top: 4%;
+}
+.column2 {
+  margin-left: 35%;
+  position: absolute;
+}
+.border-first {
+  margin-top: 20%;
+  border-style: none;
+  height: 70px;
+  font-size: 18px;
+  box-shadow: 8px 10px 5px  #d0d0d0,
+  -8px -3px 10px #f5f5f5;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 5px;
+  width: 350%;
+  cursor: pointer;
+}
+.border-first:hover {
+  background-color: #dcdcdc;
+  z-index: -99;
+}
+#linkin_p_pic {
+  margin-top: 1%;
+  margin-left: 1.6%;
+  width: 50px;
+  height: 50px;
+  border-radius: 30%;
+}
+.border-1-Play {
+  margin-top: 54px;
+  transform: translateX(798px);
+  position: absolute;
+  z-index: 1;
+}
+#ND-B {
+  font-weight: bold;
+  color: #424242;
+}
+
+.border-second {
+  margin-top: 20%;
+  border-style: none;
+  height: 70px;
+  font-size: 18px;
+  box-shadow: 8px 10px 5px  #d0d0d0,
+  -8px -3px 10px #f5f5f5;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 5px;
+  width: 350%;
+  cursor: pointer;
+}
+.border-second:hover {
+  background-color: #dcdcdc;
+}
+#GD-B2 {
+  font-weight: bold;
+  color: #424242;
+}
+#greeny_day_pic {
+  margin-top: 1%;
+  margin-left: 1.6%;
+  width: 50px;
+  height: 50px;
+  border-radius: 30%;
+}
+.border-2-Play {
+  margin-top: 200px;
+  transform: translateX(798px);
+  position: absolute;
+  z-index: 1;
+}
+.border-third {
+  margin-top: 35%;
+  border-style: none;
+  height: 70px;
+  font-size: 18px;
+  box-shadow: 8px 10px 5px  #d0d0d0,
+  -8px -3px 10px #f5f5f5;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 5px;
+  width: 350%;
+  cursor: pointer;
+}
+.border-third:hover {
+  background-color: #dcdcdc;
+}
+#MCR {
+  margin-top: 1%;
+  margin-left: 1.6%;
+  width: 50px;
+  height: 50px;
+  border-radius: 30%;
+}
+.border-3-Play {
+  margin-top: 310px;
+  transform: translateX(798px);
+  position: absolute;
+  z-index: 1;
+}
+#MCR-B3 {
+  font-weight: bold;
+  color: #424242;
+}
+.border-fourth {
+  margin-top: 50%;
+  border-style: none;
+  height: 70px;
+  font-size: 18px;
+  box-shadow: 8px 10px 5px  #d0d0d0,
+  -8px -3px 10px #f5f5f5;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 5px;
+  width: 350%;
+  cursor: pointer;
+}
+.border-fourth:hover{
+  background-color: #dcdcdc;
+}
+.border-4-Play {
+  margin-top: 440px;
+  transform: translateX(798px);
+  position: absolute;
+  z-index: 1;
+}
+#LP-B4 {
+  font-weight: bold;
+  color: #424242;
+}
+#WID {
+  margin-top: 1%;
+  margin-left: 1.6%;
+  width: 50px;
+  height: 50px;
+  border-radius: 30%;
+}
+#PT {
+  font-weight: 300;
+}
+#CUN {
+  margin-top: 30px;
+  font-weight: 300;
+}
+ul {
+  margin-left: 17%;
+  margin-top: 2%;
+}
+#circle2 {
+  padding: 20px;
+  text-align: center;
+}
+span {
+  transform: translateY(8px);
+}
+li {
+  color: #424242;
+  display: inline;
+  cursor: pointer;
+  border-style: none;
+  margin: 25px;
+  padding: 1%;
+  border-radius: 50%;
+  box-shadow: 8px 3px 5px  #d0d0d0,
+  -8px -3px 10px #f5f5f5;
+
+}
+li:hover {
+  background-color: #dcdcdc;
+}
+#the-killers-pic {
+  border-radius: 10%;
+  width: 300px;
+  height: 270px;
+}
+
+#title-left {
+  font-weight:bold;
+  margin-left: 3%;
+  color: #424242;
+
+}
+
+#title-left2 {
+  font-weight: 200;
+  margin-left: 8%;
+  color: #424242;
+}
+
+.border1 {
+  margin-top: 3%;
+  border-style: none;
+  margin-top: 3%;
+  margin-left: 18.9%;
+  height: 25px;
+  font-size: 18px;
+  box-shadow: 8px 10px 5px  #d0d0d0,
+  -8px -3px 10px #f5f5f5;
+  border-radius: 40px;
+  padding: 5px;
+  width: 20%;
+}
+
+.bar {
+ background-color: red;
+ margin-left: 1%;
+ height: 15px;
+ width: 60%;
+ border-radius: 25px;
+
+}
